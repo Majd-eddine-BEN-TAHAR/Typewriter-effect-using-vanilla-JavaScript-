@@ -2,4 +2,4 @@
 
 ## Build typewriter effect
 
-For live preview visit : [Typewriter Effect]()
+For live preview visit : [Typewriter Effect](https://majd-eddine-ben-tahar.github.io/Typewriter-effect-using-vanilla-JavaScript-/)
